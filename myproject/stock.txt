@@ -1,0 +1,13 @@
+12
+tomato 50
+lettuce 21
+sezar-sauce 50
+chicken 9
+holland-cheese 10
+dry bread 30
+meat 15
+burger-bread 30
+pasta 20
+bolognese-sauce 12
+pizza dough 25
+sausage 50
